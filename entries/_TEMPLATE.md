@@ -14,7 +14,7 @@ One or two lines.
 - Date:
 - URL:
 
-**Optional gloss (source’s words):**
+**Optional gloss (source's words):**
 
 > …
 
