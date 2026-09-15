@@ -13,7 +13,7 @@ An entry needs all of these:
 1. The exact prompt, copy-paste ready. Do not rewrite the wording.
 2. A named concept the model already has, or a forced comparison such as brittle vs durable.
 3. One line on why this packs more than a tip.
-4. A source. Quoted finds need a person, a date, and a URL. Classics from books need the book and the public post that treats the phrase as a Leitwort. First-party or community finds need a name, a date, and a short note on how you used it. No prior public post is required. Private community shares are fine. Anonymous "works for me" with no name and no use note will not merge.
+4. A source. If you quote someone, give their name, the date, and a URL. If it comes from a book, name the book and the public post that treats the phrase as a Leitwort. If it is first-party or from the community, give a name, a date, and a short note on how you used it. You do not need an earlier public post. Private community shares are fine. We will not merge an anonymous "works for me" with no name and no use note.
 5. A human merge. PRs are welcome. Merge is editorial.
 
 Miss any of those and it is tip-dump material. We will not merge it.
