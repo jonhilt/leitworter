@@ -10,9 +10,10 @@ One or two lines.
 
 **Source:**
 
-- Person:
+- Origin: quoted | first-party | community
+- Person / handle:
 - Date:
-- URL:
+- URL: (quoted finds) or lived use: (first-party / community — one concrete line)
 
 **Optional gloss (source's words):**
 
