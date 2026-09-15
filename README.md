@@ -23,6 +23,8 @@ Miss any of those and it is tip-dump material. We will not merge it.
 | [Pokayoke](entries/pokayoke.md) | Nate Berkopec |
 | [Brittle / durable](entries/brittle-durable.md) | Alex Hillman |
 | [Tautological tests](entries/tautological-tests.md) | Matt Pocock |
+| [Fail fast / throw](entries/fail-fast-throw.md) | Matt Pocock |
+| [Less code, low complexity](entries/less-code-low-complexity.md) | Matt Pocock |
 
 ## Contributing
 
