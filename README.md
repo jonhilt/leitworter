@@ -26,6 +26,7 @@ Miss any of those and it is tip-dump material. We will not merge it.
 | [Brittle / durable](entries/brittle-durable.md) | Alex Hillman |
 | [Tautological tests](entries/tautological-tests.md) | Matt Pocock |
 | [Frontier / fog of war](entries/frontier-fog-of-war.md) | Matt Pocock |
+| [Forensically](entries/forensically.md) | community |
 
 ## Classics, literature via Matt
 
