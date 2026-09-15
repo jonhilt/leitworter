@@ -4,6 +4,8 @@ Short prompts that work because they name something the model already knows. Pok
 
 This is not another magic-prompt list. A Leitwort (leading word) is a small phrase that wakes up a whole method. A few words do the job of a paragraph of instructions.
 
+The name and framing come from Matt Pocock's **leading words** (Leitwörter): short phrases that wake up knowledge the model already has. See https://x.com/mattpocockuk/status/2067965196618895564 ("Two new leading words for planning work with AI").
+
 ## What gets in
 
 An entry needs all of these:
