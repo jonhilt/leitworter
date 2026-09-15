@@ -1,20 +1,20 @@
 # Leitwörter
 
-Short prompts that punch above their length because they invoke a **known concept** (or force a simple comparison). Not a magic-prompt dump.
+Short prompts that work because they name something the model already knows. Pokayoke. Tautological tests. Brittle vs durable.
 
-A *Leitwort* (leading word) activates knowledge the model already has — e.g. *pokayoke*, *tautological tests* — so a few words do the work of a paragraph.
+This is not another magic-prompt list. A Leitwort (leading word) is a small phrase that wakes up a whole method. A few words do the job of a paragraph of instructions.
 
-## Shape bar (what gets in)
+## What gets in
 
-Every entry must have **all** of:
+An entry needs all of these:
 
-1. **Exact example prompt** — copy-paste ready (do not paraphrase the working words)
-2. **Named concept** the model already knows, *or* a forced comparison that stretches search (e.g. brittle vs durable)
-3. **One-line “why denser than a tip”**
-4. **Public source** — person + date + URL (no anonymous “works for me”)
-5. **Curator merge** — PRs welcome; merge is editorial
+1. The exact prompt, copy-paste ready. Do not "improve" the wording.
+2. A named concept the model already has, or a forced comparison that stretches the search (brittle vs durable).
+3. One line on why this is denser than a tip.
+4. A public source: person, date, URL. No anonymous "works for me."
+5. A human merge. PRs welcome. Merge is editorial.
 
-If it fails any of those, it’s a tip list entry. Refuse it.
+Miss any of those and it is tip-dump material. We will not merge it.
 
 ## Entries
 
@@ -26,8 +26,9 @@ If it fails any of those, it’s a tip list entry. Refuse it.
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). Open a PR with one entry file under `entries/`. Do not open a PR that is only vibes or “10 prompts that changed my life.”
+Read [CONTRIBUTING.md](CONTRIBUTING.md). One PR, one entry under `entries/`. If your PR is vibes or "10 prompts that changed my life," save it.
 
 ## License
 
-Source quotes remain with their authors. This collection’s structure and editorial notes: MIT (see [LICENSE](LICENSE)).
+Quoted prompts stay with their authors. The repo structure and our notes are MIT. See [LICENSE](LICENSE).
+
