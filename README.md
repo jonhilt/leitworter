@@ -2,19 +2,19 @@
 
 Short prompts that work because they name something the model already knows. Pokayoke. Fog of war. Tracer bullets.
 
-Not a magic-prompt list. A Leitwort (leading word) is a small phrase that wakes up a whole method. A few words replace a paragraph of instructions.
+Not a magic-prompt list. A Leitwort, or leading word, is a small phrase that pulls in a whole method the model already has. A few words replace a paragraph of instructions.
 
-Concept credit: Matt Pocock, [The outrageous effectiveness of Leitwörter](https://x.com/mattpocockuk/status/2066922013000671731) (16 Jun 2026). He calls them leading words: short phrases that guide the agent by waking up what it already knows.
+Concept credit goes to Matt Pocock, [The outrageous effectiveness of Leitwörter](https://x.com/mattpocockuk/status/2066922013000671731), 16 Jun 2026. He calls them leading words. Short phrases guide the agent by naming what it already knows.
 
 ## What gets in
 
 An entry needs all of these:
 
-1. The exact prompt, copy-paste ready. Do not "improve" the wording.
-2. A named concept the model already has, or a forced comparison that stretches the search (brittle vs durable).
-3. One line on why this is denser than a tip.
-4. A source. Quoted finds: person, date, URL. Classics from books: name the book and the public post that treats the phrase as a Leitwort. First-party or community finds: name, date, and a short lived-use note (no prior public post required; private community shares are fine). No anonymous "works for me" with no name and no use note.
-5. A human merge. PRs welcome. Merge is editorial.
+1. The exact prompt, copy-paste ready. Do not rewrite the wording.
+2. A named concept the model already has, or a forced comparison such as brittle vs durable.
+3. One line on why this packs more than a tip.
+4. A source. Quoted finds need a person, a date, and a URL. Classics from books need the book and the public post that treats the phrase as a Leitwort. First-party or community finds need a name, a date, and a short note on how you used it. No prior public post is required. Private community shares are fine. Anonymous "works for me" with no name and no use note will not merge.
+5. A human merge. PRs are welcome. Merge is editorial.
 
 Miss any of those and it is tip-dump material. We will not merge it.
 
@@ -27,7 +27,7 @@ Miss any of those and it is tip-dump material. We will not merge it.
 | [Tautological tests](entries/tautological-tests.md) | Matt Pocock |
 | [Frontier / fog of war](entries/frontier-fog-of-war.md) | Matt Pocock |
 
-## Classics (literature via Matt)
+## Classics, literature via Matt
 
 Phrases from well-known books that Matt lists as leading words. The prompt is the phrase itself. Credit the book for the idea and Matt for using it as a Leitwort.
 
@@ -39,7 +39,7 @@ Phrases from well-known books that Matt lists as leading words. The prompt is th
 
 ## Contributing
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md). One PR, one entry under `entries/`. If your PR is vibes or "10 prompts that changed my life," save it.
+Read [CONTRIBUTING.md](CONTRIBUTING.md). One PR covers one entry under `entries/`. If your PR is vibes or "10 prompts that changed my life," save it.
 
 ## License
 
