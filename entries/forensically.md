@@ -17,7 +17,7 @@ Names a forensic exam: evidence-first, exhaustive, no vibe pass. Not "compare th
 - Origin: community
 - Filed by: Jon Hilton (maintainer)
 - Date: 15 Sep 2026
-- Lived use: Day-job prompt comparing a design-system component to its implementation, to find gaps and port them back into the design system. Shared in the AI Coding Lab community. Contributor waived named attribution.
+- Lived use: Day-job prompt comparing a design-system component to its implementation, to find gaps and port them back into the design system. Shared in the AI Coding Lab community. 
 - Attribution: waived at contributor's request
 
 **Related:**
