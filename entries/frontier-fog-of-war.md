@@ -6,7 +6,7 @@
 
 **Why denser than a tip:**
 
-Two named concepts the model already has (fog of war, frontier) that stop over-planning and force alignment on the next decisions only.
+Stops over-planning. Forces agreement on the next decisions only.
 
 **Source:**
 
@@ -14,7 +14,7 @@ Two named concepts the model already has (fog of war, frontier) that stop over-p
 - Date: 19 Jun 2026
 - URL: https://x.com/mattpocockuk/status/2067965196618895564
 
-**Optional gloss (source’s words):**
+**Optional gloss (source's words):**
 
 > Two new leading words for planning work with AI:
 >
