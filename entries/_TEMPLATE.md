@@ -4,7 +4,7 @@
 
 > paste the exact wording here
 
-**Why denser than a tip:**
+**Why this packs more than a tip:**
 
 One or two lines.
 
@@ -13,7 +13,7 @@ One or two lines.
 - Origin: quoted | first-party | community
 - Person / handle:
 - Date:
-- URL: (quoted finds) or lived use: (first-party / community — one concrete line)
+- URL: (if you quoted someone) or book + public Leitwort post (if from a book) or note on how you used it (first-party / community)
 
 **Optional gloss (source's words):**
 
