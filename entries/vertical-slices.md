@@ -6,7 +6,7 @@
 
 Use the phrase in skills, plans, and handoffs. Do not expand it into a layering lecture unless asked.
 
-Example from lived use (Dex handoff):
+Example from lived use:
 
 > Please hand this off to a new session to cut vertical slices.
 
@@ -18,7 +18,7 @@ Names end-to-end feature work along the axis of change — UI through data for o
 
 - Origin: first-party (concept quoted)
 - Concept: Jimmy Bogard, *Vertical Slice Architecture*, 19 Apr 2018 — https://www.jimmybogard.com/vertical-slice-architecture/
-- Lived use: Jon Hilton, 3 Sep 2026 — Dex / HumanLayer four-phase handoff after program design: paste-ready prompt to start a new session that cuts vertical slices (not code in the program-design chat).
+- Lived use: Jon Hilton, 3 Sep 2026 — In general (when slicing) and specifically testing HumanLayer four-phase handoff after program design: paste-ready prompt to start a new session that cuts vertical slices (not code in the program-design chat).
 
 **Optional gloss (Bogard):**
 
