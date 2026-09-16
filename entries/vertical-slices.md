@@ -17,7 +17,7 @@ Names end-to-end feature work along the axis of change — UI through data for o
 **Source:**
 
 - Origin: first-party (concept quoted)
-- Concept: Jimmy Bogard, *Vertical Slice Architecture* — https://www.jimmybogard.com/vertical-slice-architecture/
+- Concept: Jimmy Bogard, *Vertical Slice Architecture*, 19 Apr 2018 — https://www.jimmybogard.com/vertical-slice-architecture/
 - Lived use: Jon Hilton, 3 Sep 2026 — Dex / HumanLayer four-phase handoff after program design: paste-ready prompt to start a new session that cuts vertical slices (not code in the program-design chat).
 
 **Optional gloss (Bogard):**
