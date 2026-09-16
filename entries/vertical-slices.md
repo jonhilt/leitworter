@@ -12,7 +12,7 @@ Example from lived use:
 
 **Why denser than a tip:**
 
-Names end-to-end feature work along the axis of change. UI through data for one request — not another horizontal layer cake.
+Names end-to-end feature work along the axis of change. UI through data for one request - not another horizontal layer cake.
 
 **Source:**
 
