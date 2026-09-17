@@ -13,11 +13,6 @@ In other words, a point where you can substitute a different implementation in, 
 You might use interfaces and have a test pass in a stub/mock.
 
 ```csharp
-public interface ICustomerRepository
-{
-    Customer Load(int customerId);
-}
-
 public interface ITaxService
 {
     decimal GetRate(Address address);
