@@ -1,5 +1,13 @@
 # Pokayoke
 
+**What it is:**
+
+Mistake-proofing. Change the system so that error class cannot happen. Don't remind people to be careful.
+
+**When / why:**
+
+Something failed again. The next fix should make that failure impossible. A checklist won't cut it.
+
 **Exact prompt:**
 
 > how can I pokayoke this so this kind of error never happens again

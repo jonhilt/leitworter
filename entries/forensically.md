@@ -1,5 +1,13 @@
 # Forensically
 
+**What it is:**
+
+Evidence-first difference analysis. Treat the gap like a crime scene. No vibe pass.
+
+**When / why:**
+
+Two things should match, design system vs implementation, and you need every delta named. "Looks close" is not enough.
+
 **Exact prompt:**
 
 > forensically analyse the difference between [A] and [B]

@@ -1,5 +1,13 @@
 # Brittle / durable
 
+**What it is:**
+
+Ask for the most fragile fix and the most lasting one, then build the lasting one.
+
+**When / why:**
+
+The first plausible patch is sitting there looking fine. Make the model stretch both ways before it codes.
+
 **Exact prompt:**
 
 > come up with two fixes, the most brittle and the most durable
