@@ -1,5 +1,13 @@
 # <Name>
 
+**What it is:**
+
+One plain sentence naming the concept. No fluff.
+
+**When / why:**
+
+One concrete scenario. When would you reach for this leading word with an agent? Solve for X with the word problem attached.
+
 **Exact prompt:**
 
 > paste the exact wording here
