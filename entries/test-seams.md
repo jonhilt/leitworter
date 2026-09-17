@@ -6,7 +6,50 @@ A place you can change behaviour in tests without editing the production path.
 
 **When / why:**
 
-Use test seams when you need tests around code that hits a clock, filesystem, HTTP, or database, and the agent wants to rewrite the production path or mock by editing the code under test. Ask for a seam so tests can substitute a dependency at one join, and production stays on the real path.
+A place where you can alter a program's behaviour without changing the code in that place.
+
+In other words, a point where you can substitute a different implementation in, often useful for testing without hitting real implementations.
+
+You might use interfaces and have a test pass in a stub/mock.
+
+```csharp
+public interface ICustomerRepository
+{
+    Customer Load(int customerId);
+}
+
+public interface ITaxService
+{
+    decimal GetRate(Address address);
+}
+
+public class OrderService
+{
+    private readonly ITaxService taxService;
+
+    public OrderService(ITaxService taxService)
+    {
+        this.taxService = taxService;
+    }
+
+    public decimal CalculateTotal(int total, Address customerAddress)
+    {       
+        var tax = taxService.GetRate(customerAddress);
+        return total * (1 + tax);
+    }
+}
+```
+
+This doesn't just mean "use interfaces", there are other ways to open up a seam for behaviour to be changed without rewriting the code inside.
+
+```csharp
+public decimal GetPrice(Product product, Func<Product, decimal> discount)
+{
+    return product.Price - discount(product);
+}
+```
+
+Use test seams when you need tests around code that hits a clock, filesystem, HTTP, or database. Ask for a seam so tests can substitute a dependency at one join, and production stays on the real path.
 
 **Exact prompt (leading word):**
 
