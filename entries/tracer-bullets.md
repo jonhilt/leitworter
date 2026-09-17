@@ -1,5 +1,13 @@
 # Tracer bullets
 
+**What it is:**
+
+A thin, real path through every layer of the system. You keep it and thicken it. It is not a throwaway spike.
+
+**When / why:**
+
+Use a tracer bullet when an agent is about to design a feature that crosses UI, service, and storage, and you still do not know if those pieces talk to each other. Ask for this instead of a complete design or a mocked skeleton. You want one working shot through the real stack so you can see if you are hitting the target.
+
 **Exact prompt (leading word):**
 
 > tracer bullets
@@ -23,3 +31,4 @@ Names the Pragmatic Programmer method: a thin end-to-end path through the system
 
 - [Deep modules](deep-modules.md)
 - [Test seams](test-seams.md)
+- [Vertical slices](vertical-slices.md)

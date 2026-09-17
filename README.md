@@ -10,11 +10,13 @@ Concept credit goes to Matt Pocock, [The outrageous effectiveness of Leitwörter
 
 An entry needs all of these:
 
-1. The exact prompt, copy-paste ready. Do not rewrite the wording.
-2. A named concept the model already has, or a forced comparison such as brittle vs durable.
-3. One line on why this packs more than a tip.
-4. A source. If you quote someone, give their name, the date, and a URL. If it comes from a book, name the book and the public post that treats the phrase as a Leitwort. If it is first-party or from the community, give a name, a date, and a short note on how you used it. You do not need an earlier public post. Private community shares are fine. We will not merge an anonymous "works for me" with no name and no use note.
-5. A human merge. PRs are welcome. Merge is editorial.
+1. What it is: one plain sentence naming the concept.
+2. When / why: one concrete scenario. When would you reach for this leading word with an agent?
+3. The exact prompt, copy-paste ready. Do not rewrite the wording. The leading word alone is fine if When / why carries the use case.
+4. A named concept the model already has, or a forced comparison such as brittle vs durable.
+5. One line on why this packs more than a tip.
+6. A source. If you quote someone, give their name, the date, and a URL. If it comes from a book, name the book and the public post that treats the phrase as a Leitwort. If it is first-party or from the community, give a name, a date, and a short note on how you used it. You do not need an earlier public post. Private community shares are fine. We will not merge an anonymous "works for me" with no name and no use note.
+7. A human merge. PRs are welcome. Merge is editorial.
 
 Miss any of those and it is tip-dump material. We will not merge it.
 
@@ -31,7 +33,7 @@ Miss any of those and it is tip-dump material. We will not merge it.
 
 ## Classics, literature via Matt
 
-Phrases from well-known books that Matt lists as leading words. The prompt is the phrase itself. Credit the book for the idea and Matt for using it as a Leitwort.
+Phrases from well-known books that Matt lists as leading words. The prompt can still be the phrase itself. The entry still needs What it is and When / why, like everything else. A reader should know when to use a tracer bullet without opening the book. Credit the book for the idea and Matt for using it as a Leitwort.
 
 | Leitwort | Book |
 |---|---|

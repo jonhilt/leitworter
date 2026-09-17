@@ -1,5 +1,13 @@
 # Deep modules
 
+**What it is:**
+
+A lot of behaviour behind a small interface. Callers stay simple because the module hides the work.
+
+**When / why:**
+
+Use deep modules when an agent is carving a feature into many small files whose callers still pass flags, know the storage shape, or wire internals. Reach for this when the split looks tidy but every call site has to know too much.
+
 **Exact prompt (leading word):**
 
 > deep modules
