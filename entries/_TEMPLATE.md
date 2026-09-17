@@ -2,11 +2,11 @@
 
 **What it is:**
 
-One plain sentence naming the concept. No fluff.
+One plain sentence that names the concept. No fluff.
 
 **When / why:**
 
-One concrete scenario. When would you reach for this leading word with an agent? Solve for X with the word problem attached.
+One concrete scene. When would you actually say this leading word to an agent? Give the story problem, not just the label.
 
 **Exact prompt:**
 

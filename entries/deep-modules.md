@@ -2,17 +2,17 @@
 
 **What it is:**
 
-A lot of behaviour behind a small interface. Callers stay simple because the module hides the work.
+Lots of behaviour behind a small interface. Callers stay simple because the module hides the messy bits.
 
 **When / why:**
 
-Use deep modules when an agent is carving a feature into many small files whose callers still pass flags, know the storage shape, or wire internals. Reach for this when the split looks tidy but every call site has to know too much.
+The agent is splitting a feature into lots of little files, but every caller still passes flags, knows the storage shape, or wires internals. The split looks tidy. The call sites still know too much. That's when you say deep modules.
 
 **Exact prompt (leading word):**
 
 > deep modules
 
-Use the phrase in design and review. Do not expand it into a design essay unless asked.
+Drop the phrase into design and review. Don't turn it into a design essay unless asked.
 
 **Why denser than a tip:**
 

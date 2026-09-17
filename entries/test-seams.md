@@ -2,17 +2,17 @@
 
 **What it is:**
 
-A place you can change behaviour in tests without editing the production path.
+A spot where tests can swap behaviour without editing the production path.
 
 **When / why:**
 
-Use test seams when you need tests around code that hits a clock, filesystem, HTTP, or database, and the agent wants to rewrite the production path or mock by editing the code under test. Ask for a seam so tests can substitute a dependency at one join, and production stays on the real path.
+You need tests around code that hits a clock, disk, HTTP, or database, and the agent wants to rewrite production or mock by editing the code under test. Ask for a seam. Tests swap the dependency at one join. Production keeps the real path.
 
 **Exact prompt (leading word):**
 
 > test seams
 
-Use the phrase when talking about where to inject tests or substitutes. Skip the textbook digression.
+Use it when you talk about where to inject tests or substitutes. Skip the textbook aside.
 
 **Why denser than a tip:**
 
