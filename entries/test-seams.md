@@ -50,7 +50,7 @@ Use test seams when you need tests around code that hits a clock, filesystem, HT
 
 > test seams
 
-Use the phrase when talking about where to inject tests or substitutes. Skip the textbook digression.
+Use the phrase when talking about where to inject tests or substitutes.
 
 **Why denser than a tip:**
 
