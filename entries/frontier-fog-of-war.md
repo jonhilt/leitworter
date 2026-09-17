@@ -1,5 +1,13 @@
 # Frontier / fog of war
 
+**What it is:**
+
+Decide only what's at the edge of what you can see. Leave everything past the fog alone for now.
+
+**When / why:**
+
+The planning chat is turning into a roadmap. Lock the next frontier decisions and stop.
+
 **Exact prompt:**
 
 > Don't plan past the fog of war. Let's resolve just the decisions at the frontier first.

@@ -1,5 +1,13 @@
 # Tautological tests
 
+**What it is:**
+
+Tests that restate the implementation. They assert the code does what the code already does. They stay green and catch nothing.
+
+**When / why:**
+
+An agent wrote unit tests that mirror the method body. Put the phrase in `CODING_STANDARDS.md` so `/code-review` kills that class on sight.
+
 **Exact example (a standards line review can pick up):**
 
 ```bash

@@ -1,5 +1,13 @@
 # Vertical slices
 
+**What it is:**
+
+One feature end to end along a single request path, UI through data. Not another horizontal layer cake.
+
+**When / why:**
+
+Handing off to a new session after program design. Cut work along the axis of change, not by layer.
+
 **Exact prompt (leading word):**
 
 > vertical slices
