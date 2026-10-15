@@ -30,6 +30,9 @@ Miss any of those and it is tip-dump material. We will not merge it.
 | [Frontier / fog of war](entries/frontier-fog-of-war.md) | Matt Pocock |
 | [Forensically](entries/forensically.md) | community |
 | [Vertical slices](entries/vertical-slices.md) | Jimmy Bogard / first-party |
+| [Irrefutable proof](entries/irrefutable-proof.md) | Thorsten Ball |
+| [Deeper, not bigger](entries/deeper-not-bigger.md) | Felix Rieseberg |
+| [Restate my goal](entries/restate-my-goal.md) | lauren (@poteto) |
 
 ## Classics, literature via Matt
 
