@@ -33,6 +33,7 @@ Miss any of those and it is tip-dump material. We will not merge it.
 | [Irrefutable proof](entries/irrefutable-proof.md) | Thorsten Ball |
 | [Deeper, not bigger](entries/deeper-not-bigger.md) | Felix Rieseberg |
 | [Restate my goal](entries/restate-my-goal.md) | lauren (@poteto) |
+| [What would make this wrong](entries/what-would-make-this-wrong.md) | Josh Defilippi |
 
 ## Classics, literature via Matt
 
