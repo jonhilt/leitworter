@@ -35,6 +35,7 @@ Miss any of those and it is tip-dump material. We will not merge it.
 | [Restate my goal](entries/restate-my-goal.md) | lauren (@poteto) |
 | [What would make this wrong](entries/what-would-make-this-wrong.md) | Josh Defilippi |
 | [Holdout](entries/holdout.md) | Nate Berkopec (via Dan Luu) |
+| [Tufte](entries/tufte.md) | Demjan (@VesterDe) |
 
 ## Classics, literature via Matt
 
