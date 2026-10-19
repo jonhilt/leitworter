@@ -36,6 +36,7 @@ Miss any of those and it is tip-dump material. We will not merge it.
 | [What would make this wrong](entries/what-would-make-this-wrong.md) | Josh Defilippi |
 | [Holdout](entries/holdout.md) | Nate Berkopec (via Dan Luu) |
 | [Tufte](entries/tufte.md) | Demjan (@VesterDe) |
+| [Hyper intuitively, bottoms up](entries/hyper-intuitively-bottoms-up.md) | gabriel (@gabriel1) |
 
 ## Classics, literature via Matt
 
