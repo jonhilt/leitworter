@@ -37,6 +37,8 @@ Miss any of those and it is tip-dump material. We will not merge it.
 | [Holdout](entries/holdout.md) | Nate Berkopec (via Dan Luu) |
 | [Tufte](entries/tufte.md) | Demjan (@VesterDe) |
 | [Hyper intuitively, bottoms up](entries/hyper-intuitively-bottoms-up.md) | gabriel (@gabriel1) |
+| [Competing theories](entries/competing-theories.md) | Thorsten Ball |
+| [Twenty variations](entries/twenty-variations.md) | Thorsten Ball |
 
 ## Classics, literature via Matt
 
