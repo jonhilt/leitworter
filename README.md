@@ -39,6 +39,7 @@ Miss any of those and it is tip-dump material. We will not merge it.
 | [Hyper intuitively, bottoms up](entries/hyper-intuitively-bottoms-up.md) | gabriel (@gabriel1) |
 | [Competing theories](entries/competing-theories.md) | Thorsten Ball |
 | [Twenty variations](entries/twenty-variations.md) | Thorsten Ball |
+| [One-way door / two-way door](entries/one-way-door-two-way-door.md) | Matt Pocock |
 
 ## Classics, literature via Matt
 
