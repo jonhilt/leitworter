@@ -41,6 +41,7 @@ Miss any of those and it is tip-dump material. We will not merge it.
 | [Twenty variations](entries/twenty-variations.md) | Thorsten Ball |
 | [One-way door / two-way door](entries/one-way-door-two-way-door.md) | Matt Pocock |
 | [Fully verifiable](entries/fully-verifiable.md) | Matt Pocock |
+| [No implicit state machines](entries/no-implicit-state-machines.md) | Steve Ruiz |
 
 ## Classics, literature via Matt
 
