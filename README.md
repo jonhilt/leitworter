@@ -42,6 +42,7 @@ Miss any of those and it is tip-dump material. We will not merge it.
 | [One-way door / two-way door](entries/one-way-door-two-way-door.md) | Matt Pocock |
 | [Fully verifiable](entries/fully-verifiable.md) | Matt Pocock |
 | [No implicit state machines](entries/no-implicit-state-machines.md) | Steve Ruiz |
+| [YAGNI](entries/yagni.md) | Nate Berkopec |
 
 ## Classics, literature via Matt
 
